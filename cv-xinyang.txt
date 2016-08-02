@@ -7,7 +7,7 @@ xxg113@cse.psu.edu
 
 EDUCATION
 ================================================================================
-Ph.D. in Computer Science and Engineering                             2012.8-now
+Ph.D. in Computer Science and Engineering                          2012.8-2016.8
 The Pennsylvania State University, University Park
 Advisor: Dr. Trent Jaeger
 
