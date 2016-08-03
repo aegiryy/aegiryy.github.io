@@ -17,7 +17,7 @@ Nanjing University
 
 PROFESSIONAL EXPERIENCE
 ================================================================================
-Penn State, University Park, PA                                       2012.8-now
+Penn State, University Park, PA                                    2012.8-2016.8
 Research Assitant, Advisor: Trent Jaeger
   BinTran: a static binary rewriting tool that can arbitrarily insert or modify
   instructions within an ELF object, based on which, we instrumented the
