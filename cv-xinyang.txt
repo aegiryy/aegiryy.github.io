@@ -84,26 +84,30 @@ Misc: ARM TrustZone, Intel Processor Trace, Binary Analysis
 
 PUBLICATIONS
 ================================================================================
-[1] Xinyang Ge, Nirupama Talele, Mathias Payer, and Trent Jaeger.  Fine-Grained
+[1] Yuqiong Sun, Giuseppe Petracca, Xinyang Ge, and Trent Jaeger.  Pileus:
+Protecting User Resources from Vulnerable Cloud Services.  In Proceedings of the
+32nd Annual Computer Security Applications Conference (ACSAC), December, 2016.
+
+[2] Xinyang Ge, Nirupama Talele, Mathias Payer, and Trent Jaeger.  Fine-Grained
 Control-Flow Integrity for Kernel Software.  In Proceedings of the 1st IEEE
 European Symposium on Security and Privacy (Euro S&P), March, 2016.
 
-[2] Hayawardh Vijayakumar, Xinyang Ge, Mathias Payer, and Trent Jaeger.  JIGSAW:
+[3] Hayawardh Vijayakumar, Xinyang Ge, Mathias Payer, and Trent Jaeger.  JIGSAW:
 Protecting Resource Access by Inferring Programmer Expectations.  In Proceedings
 of the 23rd USENIX Security Symposium (USENIX Security), August, 2014.
 
-[3] Hayawardh Vijayakumar, Xinyang Ge, and Trent Jaeger.  Policy Models to 
+[4] Hayawardh Vijayakumar, Xinyang Ge, and Trent Jaeger.  Policy Models to 
 Protect Resource Retrieval.  In Proceedings of the 19th ACM Symposium on Access
 Control Models and Technologies (SACMAT), June, 2014.
 
-[4] Xinyang Ge, Hayawardh Vijayakumar, and Trent Jaeger.  SPROBES: Enforcing 
+[5] Xinyang Ge, Hayawardh Vijayakumar, and Trent Jaeger.  SPROBES: Enforcing 
 Kernel Code Integrity on the TrustZone Architecture.  In Proceedings of the 3rd 
 IEEE Mobile Security Technologies Workshop (MoST), May, 2014.
 
-[5] Xinyang Ge, Jia Liu, Qi Qi, and Zhenyu Chen. A New Prediction Approach Based
+[6] Xinyang Ge, Jia Liu, Qi Qi, and Zhenyu Chen. A New Prediction Approach Based
 on Linear Regression for Collaborative Filtering.  In Proceedings of the 8th
 Internation Conference on Fuzzy Systems and Knowledge Discovery (FSKD), June, 
 2011.
 
 
-                           Last updated: Jan. 13, 2016
+                           Last updated: Sep. 6, 2016
