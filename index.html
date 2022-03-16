@@ -1,6 +1,8 @@
 <html>
     <head>
         <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>Xinyang Ge</title>
         <link href="style.css" rel="stylesheet" />
     </head>
@@ -14,7 +16,7 @@
                     <p style="font-size: 24px; font-weight: bold;">Xinyang Ge</p>
                     <p>
                     Software Engineer @ Netflix<br>
-                    Email: <a href="mailto:aegiryy@gmail.com">aegiryy@gmail.com</a><br>
+                    Email: <span id="email">aegiryy</span><br>
                     <a href="https://linkedin.com/in/xinyang-ge">LinkedIn</a> |
                     <a href="https://scholar.google.com/citations?user=gkhG-YsAAAAJ">Google Scholar</a> |
                     <a href="cv-xinyang.pdf">CV</a>
@@ -99,5 +101,13 @@
                 </td>
             </tr>
         </table>
+        <script>
+            (function() {
+              var e = document.querySelector("#email");
+              var s = e.textContent + "ahotmailccom".replace("a", "#").replace("hot", "g").replace("cc", ".c").replace("#", "@");
+              s = "<a href=\"mailt" + "o:" + s + "\">" + s + "</a>";
+              e.outerHTML = s;
+            })();
+        </script>
     </body>
 </html>
