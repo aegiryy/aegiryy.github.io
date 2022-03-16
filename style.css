@@ -76,3 +76,13 @@ a:active {
 .section {
     margin-bottom: 15px;
 }
+
+.award {
+    white-space: nowrap;
+    font-size: 75%;
+    color: #fff;
+    background-color: #17a2b8;
+    padding-left:  .8em;
+    padding-right: .8em;
+    border-radius: 10rem;
+}
